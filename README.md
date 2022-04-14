@@ -1,3 +1,5 @@
+October 2021
+
 I was the lead engineer for this project which focused on PoE and Smart Building Deployments for the Cisco 9000 Series.
 
 Storage Area Networks (SAN) are dedicated high-speed networks that allow devices to access large amounts of data. As high-performance all-flash and NVMe storage arrays are connected to Fibre Channel SANs, the issue of congestion and slow drain is becoming a bigger problem, resulting in the need for enhanced techniques to identify, correct and prevent SAN congestion.
